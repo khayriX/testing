@@ -1,0 +1,29 @@
+#LWP-Cookies-1.0
+Set-Cookie3: __cfduid=d243932212696af0f44c7bcd4ffa88ee81522858947; path="/"; domain=.b2b-it.ru; path_spec; expires="2019-04-04 16:22:27Z"; HttpOnly; version=0
+Set-Cookie3: __cfduid=d811d81d1e0145428654837ab71882d861521309062; path="/"; domain=.runofthemill.co.uk; path_spec; expires="2019-03-17 17:51:02Z"; HttpOnly; version=0
+Set-Cookie3: bt_arise_tpl=bt_arise; path="/"; domain=adrasan.lykia-edrassa.com; path_spec; expires="2019-03-25 16:46:04Z"; version=0
+Set-Cookie3: __cfduid=dead1cb69d4fd5f3169ed96be600efae61520865780; path="/"; domain=basketballstats.gr; path_spec; expires="2019-03-12 14:43:00Z"; HttpOnly; version=0
+Set-Cookie3: ja_opal_tpl=ja_opal; path="/"; domain=basketballstats.gr; path_spec; expires="2019-03-02 14:43:00Z"; version=0
+Set-Cookie3: 61931e6db024752ed7cfedb6f6058958=en-GB; path="/"; domain=cdic.co.ke; path_spec; expires="2019-04-18 22:36:19Z"; version=0
+Set-Cookie3: 9c2d6b4b89de977938b9ff026601228c=en-GB; path="/"; domain=conferencecentral.net.au; path_spec; expires="2019-04-04 16:27:16Z"; version=0
+Set-Cookie3: f1d13dbfa907cc812297339882704410=0; path="/"; domain=lasertag56.ru; expires="2019-04-22 20:57:02Z"; version=0
+Set-Cookie3: ja_pyro_tpl=ja_pyro; path="/"; domain=metaaltechnieksomeren.nl; path_spec; expires="2019-03-25 16:48:25Z"; version=0
+Set-Cookie3: __cfduid=ddb2747bc8e0620a1acd10442f1a15a7f1521308957; path="/"; domain=pachyforge.org; path_spec; expires="2019-03-17 17:49:17Z"; HttpOnly; version=0
+Set-Cookie3: __cfduid=da202f33e55caa831f74f83cfc36c45e31522858894; path="/"; domain=silverwaves.net; path_spec; expires="2019-04-04 16:21:34Z"; HttpOnly; version=0
+Set-Cookie3: gk_corporate2_tpl=gk_corporate2; path="/"; domain=super8downtowntoronto.com; path_spec; expires="2019-03-25 16:51:33Z"; version=0
+Set-Cookie3: ja_purity_tpl=ja_purity; path="/"; domain=veteransbenefitsinformation.com; path_spec; expires="2019-04-01 14:16:00Z"; version=0
+Set-Cookie3: ja_t3_blank_tpl=ja_t3_blank; path="/"; domain=vietnamtuongtheatre.com; path_spec; expires="2019-03-25 16:46:48Z"; version=0
+Set-Cookie3: cdc43219b0111b5224d6f495b6522d99=de-DE; path="/"; domain=www.amerigosaddles.ch; path_spec; expires="2019-03-23 22:45:08Z"; version=0
+Set-Cookie3: ja_purity_tpl=ja_purity; path="/"; domain=www.antonius-haus-sevelen.de; path_spec; expires="2019-03-04 09:58:39Z"; version=0
+Set-Cookie3: gk_mystore_tpl=gk_mystore; path="/"; domain=www.arslatino.com; path_spec; expires="2019-03-25 16:07:19Z"; version=0
+Set-Cookie3: crawlprotecttag=present; path="/"; domain=www.barbecuelandru.be; path_spec; expires="2018-04-05 15:59:55Z"; version=0
+Set-Cookie3: b8e38c3b3685eae656084254487d8ca0=es-ES; path="/"; domain=www.centrohipicolosmiradores.com; path_spec; expires="2019-04-18 22:40:20Z"; version=0
+Set-Cookie3: mailplan=R243279559; path="/"; domain=www.infognueureka.fr; path_spec; expires="2018-04-02 02:42:22Z"; version=0
+Set-Cookie3: mailplanBAK=R2555564460; path="/"; domain=www.infognueureka.fr; path_spec; expires="2018-04-02 02:45:07Z"; version=0
+Set-Cookie3: 30061a2b883ae51a1c1fdd74b1a865f7=srp-ME; path="/"; domain=www.irfcg.me; path_spec; expires="2019-03-17 15:16:00Z"; version=0
+Set-Cookie3: _PHP_SESSION_PHP=605; path="/"; domain=www.optimumnz.com; path_spec; expires="2018-04-11 16:23:37Z"; version=0
+Set-Cookie3: ja_purity_tpl=ja_purity; path="/"; domain=www.phil-dave.de; path_spec; expires="2019-03-25 16:45:19Z"; version=0
+Set-Cookie3: zemlya_tpl=zemlya; path="/"; domain=www.planeta-zemla.ru; path_spec; expires="2019-03-25 16:03:36Z"; version=0
+Set-Cookie3: ji_purity_multi_tpl=ji_purity_multi; path="/"; domain=www.simontzur.yadchen.com; path_spec; expires="2019-03-25 16:11:41Z"; version=0
+Set-Cookie3: ja_olivine_tpl=ja_olivine; path="/"; domain=www.ukrpol.biz; path_spec; expires="2019-03-02 19:08:19Z"; version=0
+Set-Cookie3: bbdfdb5db189d31852f594c0b7a720a7=f729927oc0p06m3078qtpq2dc5; path="/"; domain=zso5.zabrze.pl; path_spec; expires="2018-04-04 16:45:12Z"; HttpOnly; version=0
